@@ -18,45 +18,55 @@ From there I'm working with mobile app development mainly with React Native and 
 
 ## My profile stats
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucianomlima&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomlima&show_icons=true&line_height=27&count_private=true&theme=github_dark_dimmed&layout=donut">
+<span>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucianomlima&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomlima&show_icons=true&line_height=27&count_private=true&theme=github_dark_dimmed&layout=donut">
+</span>
 
 ### Working currently with
 
-<img src="https://img.shields.io/badge/-React%20Native-FFFFFF?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Jest-C63D14?style=flat&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/-React%20Testing%20Library-red?style=flat&logo=testinglibrary&logoColor=white">
-<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/-iOS-007aff?style=flat&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
+<span>
+  <img src="https://img.shields.io/badge/-React%20Native-FFFFFF?style=flat&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Jest-C63D14?style=flat&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Testing%20Library-red?style=flat&logo=testinglibrary&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/-iOS-007aff?style=flat&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
+</span>
 
 ### But I also work with
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-PHP-659ad2?style=flat&logo=php&logoColor=white">
+<span>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-PHP-659ad2?style=flat&logo=php&logoColor=white">
+</span>
 
 ### And using this tools
 
-<img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Xcode-007ACC?style=flat&logo=xcode&logoColor=white">
-<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
+<span>
+  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Xcode-007ACC?style=flat&logo=xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
+</span>
 
 ### Know a little about
 
-<img src="https://img.shields.io/badge/-Ruby-CC0000?style=flat&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffde57">
-<img src="https://img.shields.io/badge/-Fastlane-white?style=flat&logo=fastlane&logoColor=purple">
-<img src="https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes&logoColor=326ce5">
+<span>
+  <img src="https://img.shields.io/badge/-Ruby-CC0000?style=flat&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffde57">
+  <img src="https://img.shields.io/badge/-Fastlane-white?style=flat&logo=fastlane&logoColor=purple">
+  <img src="https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes&logoColor=326ce5">
+</span>
 
 ---
 
